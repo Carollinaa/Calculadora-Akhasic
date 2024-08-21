@@ -1,1 +1,1 @@
-# Calculadora 
+# Repositorio de exercícios em python
